@@ -1,9 +1,9 @@
 :root {
-  --primary:  #81b214;                           /*#e01705; light colour */
-  --secondary: #52575d ;					/*#0a1f44;*/
+  --primary:  #5ab442;                           /*#e01705; light colour */
+  --secondary: #606468 ;					/*#0a1f44;*/
   --primary-invert: #fff;
   --secondary-invert: #fff;
-  --base-bg:	#52575d;
+  --base-bg:	#606468;
 
    /* DEFAULT COLOR OF ALERT TEXT */
    --alert-text-primary: #fff;
