@@ -172,6 +172,8 @@ button:focus {
   height: var(--hero-nav-height);
   display: flex;
   align-items: center;
+  background-color: #e6ffcc;
+  
 }
 
 .hero-nav__item {
@@ -192,7 +194,7 @@ button:focus {
 }
 
 .hero-nav__logo {
-  height: 90px;
+  height: 80px;
 }
 
 .hero-nav__link {
